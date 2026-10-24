@@ -1,0 +1,11 @@
+.preview/
+.work/
+.versions/
+*.zip
+.DS_Store
+idioms.json
+成语清单_*.txt
+使用说明.txt
+图标提示词.txt
+icons/app-icon-original.png
+icons/app-icon-1024.png
